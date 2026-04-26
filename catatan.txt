@@ -1,0 +1,4 @@
+Algoritma XGBoost
+visualisasi data : matplotlib, seaborn
+preprocessing :  OrdinalEncoder
+Simpan model : joblib
